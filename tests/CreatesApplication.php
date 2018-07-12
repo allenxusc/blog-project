@@ -1,5 +1,7 @@
 <?php
-
+/**
+ * 这是一个测试应用
+ */
 namespace Tests;
 
 use Illuminate\Contracts\Console\Kernel;
