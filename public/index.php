@@ -54,5 +54,5 @@ $response = $kernel->handle(
 );
 
 $response->send();
-
+// 随便加行注释
 $kernel->terminate($request, $response);
