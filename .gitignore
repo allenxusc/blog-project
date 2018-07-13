@@ -12,3 +12,4 @@ npm-debug.log
 .settings
 .buildpath
 .project
+.DS_Store
